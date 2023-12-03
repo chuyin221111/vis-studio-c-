@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+  FileName2.cpp
+D:\projects\Project20\Project20\FileName2.cpp(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  Project20.vcxproj -> D:\projects\Project20\x64\Debug\Project20.exe

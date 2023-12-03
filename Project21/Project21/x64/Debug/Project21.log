@@ -1,0 +1,4 @@
+﻿  2.cpp
+D:\projects\Project21\Project21\2.cpp(67,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\projects\Project21\Project21\2.cpp(92,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Project21.vcxproj -> D:\projects\Project21\x64\Debug\Project21.exe

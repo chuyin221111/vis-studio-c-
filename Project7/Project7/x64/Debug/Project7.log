@@ -1,0 +1,38 @@
+﻿  FileName.c
+D:\projects\Project7\Project7\FileName.c(107,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\projects\Project7\Project7\FileName.c(107,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\projects\Project7\Project7\FileName.c(107,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\projects\Project7\Project7\FileName.c(107,11): message : 此参数用作缓冲区大小
+D:\projects\Project7\Project7\FileName.c(110,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\projects\Project7\Project7\FileName.c(110,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\projects\Project7\Project7\FileName.c(110,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\projects\Project7\Project7\FileName.c(110,11): message : 此参数用作缓冲区大小
+D:\projects\Project7\Project7\FileName.c(113,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\projects\Project7\Project7\FileName.c(113,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\projects\Project7\Project7\FileName.c(113,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\projects\Project7\Project7\FileName.c(113,11): message : 此参数用作缓冲区大小
+D:\projects\Project7\Project7\FileName.c(116,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\projects\Project7\Project7\FileName.c(116,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\projects\Project7\Project7\FileName.c(116,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\projects\Project7\Project7\FileName.c(116,11): message : 此参数用作缓冲区大小
+D:\projects\Project7\Project7\FileName.c(125,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\projects\Project7\Project7\FileName.c(125,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\projects\Project7\Project7\FileName.c(125,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\projects\Project7\Project7\FileName.c(125,11): message : 此参数用作缓冲区大小
+D:\projects\Project7\Project7\FileName.c(128,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\projects\Project7\Project7\FileName.c(128,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\projects\Project7\Project7\FileName.c(128,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\projects\Project7\Project7\FileName.c(128,11): message : 此参数用作缓冲区大小
+D:\projects\Project7\Project7\FileName.c(131,56): error C2296: “*”: 无效，因为左操作数的类型为“int *”
+D:\projects\Project7\Project7\FileName.c(131,56): error C2297: “*”: 无效，因为右操作数的类型为“int *”
+D:\projects\Project7\Project7\FileName.c(136,56): error C2296: “*”: 无效，因为左操作数的类型为“int *”
+D:\projects\Project7\Project7\FileName.c(136,56): error C2297: “*”: 无效，因为右操作数的类型为“int *”
+D:\projects\Project7\Project7\FileName.c(144,10): warning C4477: “printf”: 格式字符串“%-10d”需要类型“int”的参数，但可变参数 5 拥有了类型“int *”
+D:\projects\Project7\Project7\FileName.c(144,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 5 冲突
+D:\projects\Project7\Project7\FileName.c(144,10): warning C4477: “printf”: 格式字符串“%-10d”需要类型“int”的参数，但可变参数 6 拥有了类型“int *”
+D:\projects\Project7\Project7\FileName.c(144,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 6 冲突
+D:\projects\Project7\Project7\FileName.c(144,10): warning C4477: “printf”: 格式字符串“%-10d”需要类型“int”的参数，但可变参数 9 拥有了类型“int *”
+D:\projects\Project7\Project7\FileName.c(144,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 9 冲突
+D:\projects\Project7\Project7\FileName.c(168,11): warning C4477: “printf”: 格式字符串“%-10s”需要类型“char *”的参数，但可变参数 5 拥有了类型“int *”
+D:\projects\Project7\Project7\FileName.c(168,11): warning C4477: “printf”: 格式字符串“%-10s”需要类型“char *”的参数，但可变参数 6 拥有了类型“int *”
+D:\projects\Project7\Project7\FileName.c(168,11): warning C4477: “printf”: 格式字符串“%-10s”需要类型“char *”的参数，但可变参数 9 拥有了类型“int *”

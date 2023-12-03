@@ -1,0 +1,2 @@
+D:\projects\classfee\x64\Debug\classfee.exe.lastcodeanalysissucceeded
+D:\projects\classfee\classfee\x64\Debug\NativeCodeAnalysis.read.1.tlog

@@ -1,0 +1,16 @@
+﻿  FileName.c
+D:\projects\classfee\classfee\FileName.c(99,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\projects\classfee\classfee\FileName.c(101,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  classfee.vcxproj -> D:\projects\classfee\x64\Debug\classfee.exe
+D:\projects\classfee\classfee\FileName.c(52): warning C6262: 函数使用堆叠的 "112008" 字节。请考虑将一些数据移动到堆。
+D:\projects\classfee\classfee\FileName.c(59): warning C6031: 返回值被忽略: “scanf”。
+D:\projects\classfee\classfee\FileName.c(91): warning C6031: 返回值被忽略: “scanf”。
+D:\projects\classfee\classfee\FileName.c(93): warning C6031: 返回值被忽略: “scanf”。
+D:\projects\classfee\classfee\FileName.c(95): warning C6031: 返回值被忽略: “scanf”。
+D:\projects\classfee\classfee\FileName.c(97): warning C6031: 返回值被忽略: “scanf”。
+D:\projects\classfee\classfee\FileName.c(99): warning C6031: 返回值被忽略: “scanf”。
+D:\projects\classfee\classfee\FileName.c(99): warning C6066: 传递了非指针作为 _Param_(2)，而对“scanf”的调用需要指针参数，实际类型: “int”。
+D:\projects\classfee\classfee\FileName.c(101): warning C6031: 返回值被忽略: “scanf”。
+D:\projects\classfee\classfee\FileName.c(101): warning C6066: 传递了非指针作为 _Param_(2)，而对“scanf”的调用需要指针参数，实际类型: “int”。
+D:\projects\classfee\classfee\FileName.c(103): warning C6031: 返回值被忽略: “scanf”。
+D:\projects\classfee\classfee\FileName.c(105): warning C6031: 返回值被忽略: “scanf”。
